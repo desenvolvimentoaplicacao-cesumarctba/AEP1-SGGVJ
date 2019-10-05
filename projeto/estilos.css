@@ -1,0 +1,20 @@
+    body{
+        color:white;
+    }
+    h1{
+       text-align: center;
+    }
+    div#img1 img{
+       widh: 500px; 
+       height: 660px; 
+       float: right; 
+    }
+    div#img2 img{
+       float: left; 
+       width: 420px; 
+       height: 300px;
+    }
+    p{
+       font-family:sans-serif;
+       font-size: 18pt;
+    }
